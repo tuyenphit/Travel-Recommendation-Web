@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Kyoto",
+    "country": "Japan",
+    "category": "Historical",
+    "image": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg",
+    "description": "Ancient temples and traditions.",
+    "details": "Kyoto is known for shrines, tea houses, and cherry blossoms.",
+    "best_time": "March to May",
+    "top_attractions": ["Fushimi Inari", "Kiyomizu-dera"]
+  },
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "category": "Cities",
+    "image": "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg",
+    "description": "Modern and traditional mix.",
+    "details": "Tokyo offers technology, food, and culture.",
+    "best_time": "March to May",
+    "top_attractions": ["Shibuya", "Tokyo Tower"]
+  },
+  {
+    "name": "Bali",
+    "country": "Indonesia",
+    "category": "Beaches",
+    "image": "https://images.pexels.com/photos/1646870/pexels-photo-1646870.jpeg",
+    "description": "Tropical paradise.",
+    "details": "Bali is famous for beaches and temples.",
+    "best_time": "May to September",
+    "top_attractions": ["Uluwatu", "Seminyak"]
+  },
+  {
+    "name": "Maldives",
+    "country": "Maldives",
+    "category": "Beaches",
+    "image": "https://images.pexels.com/photos/1430677/pexels-photo-1430677.jpeg",
+    "description": "Luxury island getaway.",
+    "details": "Crystal clear water and overwater villas.",
+    "best_time": "November to April",
+    "top_attractions": ["Snorkeling", "Resorts"]
+  },
+  {
+    "name": "Paris",
+    "country": "France",
+    "category": "Cities",
+    "image": "https://images.pexels.com/photos/2082103/pexels-photo-2082103.jpeg",
+    "description": "City of love.",
+    "details": "Art, fashion, and history.",
+    "best_time": "April to June",
+    "top_attractions": ["Eiffel Tower", "Louvre"]
+  },
+  {
+    "name": "Rome",
+    "country": "Italy",
+    "category": "Historical",
+    "image": "https://images.pexels.com/photos/56886/vittorio-emanuele-monument-rome-rome-palace-altare-della-patria-56886.jpeg",
+    "description": "Ancient city.",
+    "details": "Rome is full of history and culture.",
+    "best_time": "April to June",
+    "top_attractions": ["Colosseum", "Vatican"]
+  },
+  {
+    "name": "Matterhorn",
+    "country": "Switzerland and italy",
+    "category": "Mountains",
+    "image": "https://images.pexels.com/photos/267104/pexels-photo-267104.jpeg",
+    "description": "Snowy mountains.",
+    "details": "Perfect for skiing and hiking.",
+    "best_time": "December to March",
+    "top_attractions": ["Matterhorn", "Jungfrau"]
+  },
+  {
+    "name": "Ha Noi",
+    "country": "Viet Nam ",
+    "category": "Cities",
+    "image": "https://images.pexels.com/photos/19892916/pexels-photo-19892916.png",
+    "description": "The city of peace.",
+    "details": "Ancient town with antique buildings. Besides, local people are so friendly ",
+    "best_time": "The Autumn",
+    "top_attractions": ["Hoan Kiem Lake", "Ancient town"]
+  },
+  {
+    "name": "Sydney",
+    "country": "Australia",
+    "category": "Cities",
+    "image": "https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg",
+    "description": "Harbor city.",
+    "details": "Beaches and iconic opera house.",
+    "best_time": "September to November",
+    "top_attractions": ["Opera House", "Bondi Beach"]
+  },
+  {
+    "name": "Sa Pa",
+    "country": "Viet Nam",
+    "category": "Mountains",
+    "image": "https://images.pexels.com/photos/2132042/pexels-photo-2132042.jpeg",
+    "description": "Scenic beauty.",
+    "details": "Mountains and coastline.",
+    "best_time": "September to November",
+    "top_attractions": [
+      "Fansipan Mountain",
+      "Cat Cat Village",
+      "Silver Waterfall"
+    ]
+  }
+]

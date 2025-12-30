@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Travel Recommendation Website</title>
+    <link rel="stylesheet" href="testweb.css" />
+  </head>
+  <body>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#explore">Explore</a>
+      <a href="#about">About</a>
+    </nav>
+
+    <section id="home" class="hero">
+      <h1>Travel Recommendation Website</h1>
+      <p>
+        Explore top destinations and discover places based on your interests.
+      </p>
+      <button onclick="scrollToExplore()">Get Started</button>
+    </section>
+
+    <section id="explore">
+      <h2>Explore Destinations</h2>
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search by country or city"
+      />
+
+      <div class="categories">
+        <button onclick="filterByCategory('All')">All</button>
+        <button onclick="filterByCategory('Beaches')">Beaches</button>
+        <button onclick="filterByCategory('Mountains')">Mountains</button>
+        <button onclick="filterByCategory('Cities')">Cities</button>
+        <button onclick="filterByCategory('Historical')">Historical</button>
+      </div>
+
+      <div id="results" class="card-container"></div>
+    </section>
+
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">×</span>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+
+    <section id="about">
+      <h2>About</h2>
+      <p>This website helps users discover travel destinations.</p>
+      <p>Built with HTML, CSS, JavaScript, and JSON data.</p>
+      <p>Images from pexels.com.</p>
+    </section>
+
+    <footer>
+      <p>
+        Dinh Thai Tuyen | Travel Recommendation Project | Thanks for visiting
+        our website.
+      </p>
+    </footer>
+
+    <script src="testweb.js"></script>
+  </body>
+</html>
